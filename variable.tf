@@ -1,3 +1,3 @@
 variable "mam" {
-    
+    default = "raj"
 }
